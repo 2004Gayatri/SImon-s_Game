@@ -3,7 +3,6 @@
 A fun and interactive Simon Game built using HTML, CSS, and JavaScript! 🕹️ Test your memory and see how far you can go! 🚀
 
 ✨ Features
-
 ✅ Dynamic level progression.✅ User interaction with button clicks.✅ Visual and color feedback on button presses.✅ Game-over message with score display.✅ Restart functionality after game over.
 
 🎯 How to Play
@@ -26,7 +25,7 @@ A fun and interactive Simon Game built using HTML, CSS, and JavaScript! 🕹️ 
 
 1️⃣ Clone the repository:
 
-git clone https://github.com/yourusername/simon-game.git
+git clone https://github.com/2004Gayatri/SImon-s_game.git
 
 2️⃣ Open index.html in a browser.
 
